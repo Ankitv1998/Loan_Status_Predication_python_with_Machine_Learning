@@ -1,0 +1,64 @@
+which technology based on technology???  // Loan predication project
+ans: python 4th generation[detail on python]
+object oriented language ??
+<technology>- 6 feature:- class, object, abstract, Encapsulation, inheritence, Polymorphism
+define Class :- keyward, blueprint, declare on variable or method on user. 
+class define:-???
+method or function define?????(both python)
+object define:-?? 
+all datatype are derived on object.(array, struct, union etc)
+abstraction:-Hiding of data.(need of data to the system:- eg:- mandatory form of admission form)
+Encapsulation:Hiding of implementation. 2+2=4 (internal process)
+Inheritence:- parent class/child class: inherit on parent to child but not data used in child -->parent.
+polymorphism: more behaviour or 
+
+
+
+1. ML(supervised learning)
+
+
+
+software ENgineering part (read)
+
+future of project:
+New technology add(+cloud, in future:-add )
+
+
+high level language [regression , decision tree, support vector Machine]
+invention:- which people
+platform dependent(any os to execute) ,open source[free cost, customize on code, ..define open source]
+there are 2 module on python:- 
+1. application 
+
+
+
+
+regression: bies varience(over fitting, under fitting , general information)
+
+polynomial regression:- overfitting- all point are covered on .
+Linear regression:-
+
+tkinter- Gui Library.
+
+Digital logic design : M/F label encoder: mL / (sckit  learn) ka library [label encoding/ order encoding(user)]
+
+
+Data visualization:- matplot, seaboarn [ use any one--seaborn [Matrix form:- ROw and column ]] matplot :- any data visualization 
+
+Data cleaning:- 5 process- if table is null value include -1.By delete row and column- loss data <if 20% ismore than null value then delete row and column> known- percentage find-according row after column
+2. where is null manually filled on data eg:-integer [0] and char[unknown]
+3.mean mode and median find krna: mean sum of value<given>/total : given output [fill all place]
+4.divide on class according mean.
+5.sktlearn -imputer[library]
+
+
+
+Read regression
+
+
+Training data:- keggle dataset <training 75% and testing 25%>  4 part |  |  |  |  |
+but traning data80% and testing 20% 5 part {| | | | | | }
+
+
+dependent data<y axis>, independent data<x axis>
+ 
